@@ -20,7 +20,6 @@ dist_install_DATA = \
         DroidSans-Bold.ttf \
         ForgottenFuturistShadow.ttf \
         goodtime.ttf \
-        nmsbd.ttf \
         nmsbd2.ttf \
         tiny.ttf \
         titles.ttf 
